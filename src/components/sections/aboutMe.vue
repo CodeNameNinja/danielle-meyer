@@ -44,9 +44,7 @@
         <p
           class="heading-4 relative w-full max-w-[40ch] leading-snug font-medium text-balance"
         >
-          With a passion for design and development, I take projects from
-          ideation to launch, ensuring a seamless journey that leaves a lasting
-          positive impact on the digital landscape and your business.
+          With a passion for visual storytelling, I bring ideas to life—from concept to creation—crafting compelling designs that leave a lasting impact across both digital and print landscapes.
         </p>
 
         <div
@@ -56,12 +54,11 @@
             ( ABOUT ME )
           </p>
           <p class="heading-6 font-fancy w-full text-balance sm:max-w-[40ch]">
-            Creating great web experiences is my primary focus. I ensure each
-            project leaves users with a feel-good sensation through meticulous
-            attention to detail and user-centric design principles. <br /><br />
-            When I'm not immersed in web development and design, you can find me
-            sharing insights about my freelance journey on <i>&Xopf;</i>,
-            loudly, playing music (Funk), or just relaxing.
+            Crafting captivating visual experiences is at the heart of my work.
+            I pour intention into every detail—balancing form and function to create designs that resonate and inspire.
+            <br /><br />
+            When I’m not immersed in creative projects, I’m learning motion animation, listening to music,
+            and dreaming up fresh ideas.
           </p>
         </div>
       </div>
@@ -88,7 +85,7 @@
 
   onBeforeMount(() => {
     aboutMe.value = textSplitterIntoChar(
-      'Programmer, Developer, Web-animator/',
+      'Graphic Designer, Visual Artist/',
       true,
       true,
     );

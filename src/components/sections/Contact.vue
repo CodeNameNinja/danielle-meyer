@@ -67,9 +67,9 @@
           <p class="w-full font-bold uppercase">For further inquiries</p>
           <Link
             class="text-flax-smoke-300 h-6 text-right font-medium tracking-wider lowercase"
-            label="hetari4all@gmail"
+            label="sicklywhale@gmail.com"
             :icon="true"
-            url="mailto:hetari4all@gmail"
+            url="mailto:sicklywhale@gmail.com"
           />
         </div>
       </div>

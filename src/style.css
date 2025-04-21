@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap')
 layer(base);
+@import 'tailwindcss';
 
 @layer utilities {
   @font-face {
@@ -8,8 +9,6 @@ layer(base);
     font-style: normal;
   }
 }
-
-@import 'tailwindcss';
 
 @theme {
   /* Font families */
@@ -20,7 +19,7 @@ layer(base);
   --color-flax-smoke-50: #f4f4f1;
   --color-flax-smoke-100: #ff268a;
   --color-flax-smoke-200: #ff268a;
-  --color-flax-smoke-300: #ff268a;
+  --color-flax-smoke-300: #eff0f1;
   --color-flax-smoke-400: #f64496;
   --color-flax-smoke-500: #a30048;
   --color-flax-smoke-600: #ff268a;
