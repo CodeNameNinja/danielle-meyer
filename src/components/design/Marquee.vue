@@ -1,7 +1,7 @@
 <template>
   <section
     id="marquee-section"
-    class="text-flax-smoke-200 relative mb-50 h-fit w-full overflow-clip leading-none will-change-auto"
+    class="text-accent-200 relative mb-50 h-fit w-full overflow-clip leading-none will-change-auto"
   >
     <div
       id="marquee-1"
@@ -14,7 +14,7 @@
         :key="`marquee-item-${_}`"
         class="sm:heading-1 flex w-full items-center text-3xl font-bold text-nowrap whitespace-nowrap max-sm:mx-6"
       >
-        Full Stack Developer
+        Graphic Designer and Visual Artist
         <div class="w-fit scale-50 sm:scale-75">
           <svg
             class="ms-10 me-10"
@@ -41,7 +41,7 @@
         :key="`marquee-item-${_}`"
         class="sm:heading-1 flex w-full items-center text-3xl font-bold text-nowrap whitespace-nowrap max-sm:mx-6"
       >
-        Full Stack Developer
+        Graphic Designer and Visual Artist
         <div class="mx-2 inline-block scale-50 sm:scale-75">
           <svg
             class="ms-10 me-10"

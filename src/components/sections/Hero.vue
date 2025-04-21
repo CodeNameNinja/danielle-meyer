@@ -38,8 +38,7 @@
             </div>
 
             <p class="sr-only">
-              A freelance full-stack developer, cutting-edge technologies to
-              deliver comprehensive solutions for your business.
+              A freelance graphic and visual artist, blending creativity and storytelling to craft bold, expressive designs across digital and print media.
             </p>
             <p
               v-html="whoAmI"
@@ -64,11 +63,11 @@
             id="profile-container"
             class="relative col-span-4 mt-10 h-[20vh] max-w-lg flex-col rounded-lg select-none sm:mt-0 sm:h-full md:flex md:h-[50vh]"
           >
-            <div class="overlay bg-flax-smoke-50 absolute inset-0 z-2"></div>
+            <div class="overlay bg-accent-50 absolute inset-0 z-2"></div>
             <img
               id="profile-img"
               :src="profile"
-              alt="Ebraheem profile"
+              alt="Danielle profile"
               class="size-full scale-90 rounded-lg object-cover object-top brightness-110 grayscale"
             />
           </div>
@@ -87,7 +86,7 @@
                 Available for freelance work
               </p>
               <h3
-                class="3xl:heading-1 heading-1-alt font-fancy block leading-none font-bold -tracking-tight"
+                class="3xl:heading-1 heading-1 text-primary-500 block leading-none font-bold -tracking-tight"
               >
                 {{ AvailableForWorkDate }}
               </h3>
@@ -109,7 +108,7 @@
   import { dataCalConfig, dataCalLink, dataCalNamespace } from '@/data';
 
   const whoAmI = ref(
-    'A freelance full-stack developer, cutting-edge technologies to deliver comprehensive solutions for your business.',
+    'A freelance graphic and visual artist, blending creativity and storytelling to craft bold, expressive designs across digital and print media.',
   );
   const AvailableForWorkDate = ref('');
 

@@ -1,6 +1,6 @@
 <template>
-  <h1 class="sr-only">Ebraheem Alhetari - ابراهيم الهتاري</h1>
-  <h2 class="sr-only">Web Developer - مطور ويب</h2>
+  <h1 class="sr-only">Danielle Meyer</h1>
+  <h2 class="sr-only">Graphic Design & Visual Artists</h2>
 
   <MyEnName id="svg-my-en-name" :class="$attrs.class" />
 </template>
