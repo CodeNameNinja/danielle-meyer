@@ -65,7 +65,7 @@ const getAvailableForWorkDate = () => {
 
 const gotoSection = (url: string) => {
   lenis.start();
-  if (url === '#testimonials-section') {
+  if (url === '#experience-section') {
     lenis.scrollTo('#slider', { duration: 3 });
     return;
   }

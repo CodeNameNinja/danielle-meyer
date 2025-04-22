@@ -19,8 +19,8 @@ const navLinks = [
     url: '#about-me-section',
   },
   {
-    label: 'Testimonials',
-    url: '#testimonials-section',
+    label: 'Experience',
+    url: '#experience-section',
   },
   {
     label: 'Contact',

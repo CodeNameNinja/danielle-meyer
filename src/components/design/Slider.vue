@@ -283,5 +283,13 @@
       tags: ['Graphic Design', 'Brand Identity', 'Content Creation'],
       profile: mohammad,
     },
+    {
+      quote:
+        'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
+      author: 'Project 33',
+      position: 'Freelance Graphic Designer',
+      tags: ['Graphic Design', 'Brand Identity', 'Content Creation'],
+      profile: mohammad,
+    },
   ];
 </script>
