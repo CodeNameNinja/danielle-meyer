@@ -262,18 +262,26 @@
     {
       quote:
         'Collaborating with Hetari on multiple projects has been a true pleasure. His exceptional skills, attention to detail, and commitment to quality consistently made him an invaluable asset to the team.',
-      author: 'Mohammad AL-Sulami',
-      position: 'Full Stack Developer',
-      tags: ['Web Development', 'Animation', 'UI/UX'],
+      author: 'Topco Models',
+      position: 'Graphic Designer',
+      tags: ['Graphic Design', 'Animation', 'Visual Storytelling'],
       profile: mohammad,
     },
     {
       quote:
         'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
-      author: 'Esmail Atta',
-      position: 'Founder of Axon',
-      tags: ['Web Development', 'SEO'],
+      author: 'Charlotte Rhys',
+      position: 'Graphic Designer',
+      tags: ['Graphic Design', 'Brand Identity', 'Packaging'],
       profile: esmail,
+    },
+    {
+      quote:
+        'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
+      author: 'Project 33',
+      position: 'Freelance Graphic Designer',
+      tags: ['Graphic Design', 'Brand Identity', 'Content Creation'],
+      profile: mohammad,
     },
   ];
 </script>

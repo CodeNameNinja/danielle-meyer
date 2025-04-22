@@ -10,19 +10,18 @@
       <h3
         class="heading-1 max-sm:heading-2 text-flax-smoke-950 col-span-full leading-none font-bold uppercase will-change-auto"
       >
-        Don't take my <br />
-        word for it /
+        My Design Journey <br />
+        One Brand at a Time /
       </h3>
       <div
         class="text-flax-smoke-800 col-span-full mt-[5%] flex justify-end gap-10 sm:gap-20 lg:col-span-10"
       >
         <p class="heading-6 text-center text-nowrap uppercase">
-          ( Testimonials )
+          ( Experience )
         </p>
         <p class="heading-6 font-fancy w-full text-balance sm:max-w-[40ch]">
-          Here's what my clients say about our collaboration. Their satisfaction
-          and meeting expectations are my top priorities, ensuring the best
-          experience possible.
+          I've had the privilege of working with forward-thinking teams and bold brands.
+          Each collaboration shaped my approach and sharpened my creative edge.
         </p>
       </div>
     </div>

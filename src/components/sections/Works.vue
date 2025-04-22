@@ -144,22 +144,22 @@
   const selectedWorksProps = [
     {
       id: 0,
-      name: 'Pyutube',
-      category: 'CLI Tool & Cross Platform',
-      tags: ['Python', 'CLI', 'Youtube'],
+      name: 'DISPOSABLE CAMERA VIDEO',
+      category: 'Visual Storytelling',
+      tags: ['storytelling', 'video', 'reel'],
       videoSrc: work1,
       imageBg: workBg1,
-      url: 'https://github.com/hetari/pyutube',
+      url: 'https://www.behance.net/gallery/215667235/DISPOSABLE-CAMERA-VIDEO',
       year: '2024',
     },
     {
       id: 1,
-      name: 'Iphone 15 Clone',
+      name: 'SURGE (HONOURS PROJECT)',
       category: 'Frontend & Animation & 3D',
       tags: ['Animation', '3D'],
       videoSrc: work2,
       imageBg: workBg2,
-      url: 'https://github.com/Hetari/iphone15-pro-clone',
+      url: 'https://www.behance.net/gallery/189755081/SURGE-(HONOURS-PROJECT)',
       year: '2024',
     },
     {

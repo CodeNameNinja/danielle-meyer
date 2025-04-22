@@ -58,7 +58,7 @@
               Working Globally
             </p>
             <p class="flex size-full items-center justify-start pr-2 pl-1">
-              Available Sep '24
+              Available {{ AvailableForWorkDate }}
             </p>
           </div>
         </div>
@@ -84,13 +84,16 @@
   import Link from '../Link.vue';
   import { contact } from '@/assets/videos';
   import { onBeforeMount, onMounted, ref } from 'vue';
-  import { textSplitterIntoChar } from '@/functions';
   import { animateSplitText } from '@/animations';
   import { dataCalConfig, dataCalLink, dataCalNamespace } from '@/data';
+  import { getAvailableForWorkDate, textSplitterIntoChar } from '@/functions';
 
   const makeItHappen = ref("Let's Make it happen");
+  const AvailableForWorkDate = ref('');
+
   onBeforeMount(() => {
     makeItHappen.value = textSplitterIntoChar(makeItHappen.value);
+    AvailableForWorkDate.value = getAvailableForWorkDate();
   });
   onMounted(() => {
     animateSplitText(

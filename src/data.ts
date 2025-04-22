@@ -37,31 +37,19 @@ const navbarLinks = [
 
 const socialLinks = [
   {
-    label: 'X',
-    url: 'https://x.com/4Hetari',
-  },
-  {
-    label: 'Telegram',
-    url: 'https://t.me/e_1_e',
-  },
-  {
-    label: 'GitHub',
-    url: 'https://github.com/hetari',
+    label: 'Instagram',
+    url: 'https://www.instagram.com/sicklywhale.jpeg/',
   },
   {
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/hetari/',
+    url: 'https://www.linkedin.com/in/sicklywhale/',
   },
 ];
 
 const resourceLinks = [
   {
-    label: 'Pillarstack',
-    url: 'https://www.pillarstack.com',
-  },
-  {
-    label: 'Figma Template',
-    url: 'https://www.figma.com/community/file/1328038510191576951/project-starter-template',
+    label: 'Behance',
+    url: 'https://www.behance.net/daniellmeyer',
   },
 ];
 
@@ -73,7 +61,7 @@ const locationCountry = 'Yemen, Sanaa';
 
 // cal.com
 const dataCalNamespace = '30min';
-const dataCalLink = 'brhoom/30min';
+const dataCalLink = 'sicklywhale/30min';
 const dataCalConfig =
   '{"layout":"month_view", "theme": "dark", "brand": "#8C8C73"}';
 

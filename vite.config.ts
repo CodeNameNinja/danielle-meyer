@@ -17,7 +17,7 @@ export default defineConfig({
     vue(),
     robots(),
     sitemap({
-      hostname: 'https://hetari.github.io/',
+      hostname: 'https://danielle-meyer.com/',
       basePath: 'portfolio',
       changefreq: 'hourly', // default: 'daily'
       priority: 1,
