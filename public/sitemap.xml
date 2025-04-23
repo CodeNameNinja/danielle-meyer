@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://sicklywhale.com/portfolio/sitemap/0.9">
+<urlset xmlns="https://sicklywhale.com/sitemap/0.9">
     <url>
-        <loc>https://danielle-meyer.com/portfolio</loc>
+        <loc>https://sicklywhale.com</loc>
         <lastmod>2024-08-30</lastmod>
         <priority>1.00</priority>
     </url>
-    <!-- <url>
-        <loc>https://yourwebsite.com/about</loc>
-        <lastmod>2024-08-28</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://yourwebsite.com/contact</loc>
-        <lastmod>2024-08-28</lastmod>
-        <priority>0.80</priority>
-    </url> -->
 </urlset>

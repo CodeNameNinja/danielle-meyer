@@ -17,8 +17,7 @@ export default defineConfig({
     vue(),
     robots(),
     sitemap({
-      hostname: 'https://danielle-meyer.com/',
-      basePath: 'portfolio',
+      hostname: 'https://sicklywhale.com',
       changefreq: 'hourly', // default: 'daily'
       priority: 1,
     }),
