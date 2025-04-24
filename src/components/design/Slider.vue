@@ -261,7 +261,7 @@
   const people = [
     {
       quote:
-        'At TopCo Models, I designed striking visuals and model portfolios, blending fashion-forward aesthetics with storytelling to showcase talent and elevate the agency’s image across print and digital platforms.',
+        'At Topco Models, I work across graphic design and marketing—creating visuals, editing photos and videos, and contributing to our content strategy.',
       author: 'Topco Models',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Animation', 'Visual Storytelling'],
@@ -269,7 +269,7 @@
     },
     {
       quote:
-        'I developed Charlotte Rhys’ visual identity, creating elegant packaging and marketing materials that reflect the brand’s premium essence, ensuring consistency and sophistication across all consumer touchpoints.',
+        'As the sole Graphic Designer at Charlotte Rhys, I led packaging design, marketing concepts, and product photography—ensuring cohesive visual storytelling across the brand.',
       author: 'Charlotte Rhys',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Brand Identity', 'Packaging'],

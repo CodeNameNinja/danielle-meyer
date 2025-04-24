@@ -71,13 +71,16 @@
                 <!-- autoplay="false" -->
 
                 <video
-                  :src="work.videoSrc"
-                  loop
+                  playsinline
                   muted
+                  loop
                   @error="handleVideoError"
-                  type="video/webm"
                   class="work-video size-[80%] rounded-md object-contain"
-                ></video>
+                >
+                  <source :src="work.videoSrc" type="video/webm" />
+                  <source :src="work.videoSrcMp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
               </div>
             </div>
             <div>
@@ -114,6 +117,7 @@
 <script setup lang="ts">
   import { animateSplitText } from '@/animations';
   import { work1, work2 } from '@/assets/videos';
+  import { work2MP4 } from '@/assets/videos';
   import { textSplitterIntoChar } from '@/functions';
   import { computed, onBeforeMount, onMounted, ref } from 'vue';
   import gsap from 'gsap';
@@ -148,6 +152,7 @@
       category: 'Visual Storytelling',
       tags: ['storytelling', 'video', 'reel'],
       videoSrc: work1,
+      videoSrcMp4: work2MP4,
       imageBg: workBg1,
       url: 'https://www.behance.net/gallery/215667235/DISPOSABLE-CAMERA-VIDEO',
       year: '2024',
@@ -158,6 +163,7 @@
       category: 'Visual Storytelling',
       tags: ['storytelling', 'video', 'reel'],
       videoSrc: work2,
+      videoSrcMp4: work2MP4,
       imageBg: workBg2,
       url: 'https://www.behance.net/gallery/189755081/SURGE-(HONOURS-PROJECT)',
       year: '2024',
