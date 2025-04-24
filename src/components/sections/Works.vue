@@ -156,7 +156,7 @@
       id: 1,
       name: 'SURGE (HONOURS PROJECT)',
       category: 'Visual Storytelling',
-      tags: ['Visual Storytelling', 'video', 'reel'],
+      tags: ['storytelling', 'video', 'reel'],
       videoSrc: work2,
       imageBg: workBg2,
       url: 'https://www.behance.net/gallery/189755081/SURGE-(HONOURS-PROJECT)',
