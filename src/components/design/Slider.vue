@@ -261,7 +261,7 @@
   const people = [
     {
       quote:
-        'At TopCo Models, I crafted visual narratives that captured the essence of beauty and confidence. From editorial layouts to model portfolios, each design told a story with intention and flair. I collaborated closely with photographers and stylists to ensure our visuals spoke the language of high-end fashion and elegance.',
+        'At TopCo Models, I designed striking visuals and model portfolios, blending fashion-forward aesthetics with storytelling to showcase talent and elevate the agency’s image across print and digital platforms.',
       author: 'Topco Models',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Animation', 'Visual Storytelling'],
@@ -269,7 +269,7 @@
     },
     {
       quote:
-        'As the brand identity lead at Charlotte Rhys, I shaped a timeless visual language that echoed the brand’s luxurious fragrance and lifestyle ethos. From packaging design to digital campaigns, every creative element aligned with our sophisticated aesthetic, helping elevate customer perception and strengthen our presence in the premium personal care market.',
+        'I developed Charlotte Rhys’ visual identity, creating elegant packaging and marketing materials that reflect the brand’s premium essence, ensuring consistency and sophistication across all consumer touchpoints.',
       author: 'Charlotte Rhys',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Brand Identity', 'Packaging'],
