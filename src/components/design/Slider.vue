@@ -126,7 +126,7 @@
 </template>
 
 <script setup lang="ts">
-  import { esmail, mohammad } from '@/assets/images';
+  import { Topco, Charlotte  } from '@/assets/images';
   import { Button } from '../common';
   import { computed, onMounted, ref } from 'vue';
   import { useWindowSize } from '@vueuse/core';
@@ -265,7 +265,7 @@
       author: 'Topco Models',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Animation', 'Visual Storytelling'],
-      profile: mohammad,
+      profile: Topco,
     },
     {
       quote:
@@ -273,23 +273,7 @@
       author: 'Charlotte Rhys',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Brand Identity', 'Packaging'],
-      profile: esmail,
-    },
-    {
-      quote:
-        'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
-      author: 'Project 33',
-      position: 'Freelance Graphic Designer',
-      tags: ['Graphic Design', 'Brand Identity', 'Content Creation'],
-      profile: mohammad,
-    },
-    {
-      quote:
-        'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
-      author: 'Project 33',
-      position: 'Freelance Graphic Designer',
-      tags: ['Graphic Design', 'Brand Identity', 'Content Creation'],
-      profile: mohammad,
+      profile: Charlotte,
     },
   ];
 </script>

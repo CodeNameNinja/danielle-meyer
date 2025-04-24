@@ -155,33 +155,12 @@
     {
       id: 1,
       name: 'SURGE (HONOURS PROJECT)',
-      category: 'Frontend & Animation & 3D',
-      tags: ['Animation', '3D'],
+      category: 'Visual Storytelling',
+      tags: ['Visual Storytelling', 'video', 'reel'],
       videoSrc: work2,
       imageBg: workBg2,
       url: 'https://www.behance.net/gallery/189755081/SURGE-(HONOURS-PROJECT)',
       year: '2024',
-    },
-    {
-      id: 2,
-      name: 'Axon',
-      category: 'Frontend & Documentation',
-      tags: ['Vue.js', 'Tailwind', 'AI'],
-      videoSrc: work3,
-      imageBg: workBg3,
-      url: 'https://github.com/Hetari/axon',
-
-      year: '2024',
-    },
-    {
-      id: 3,
-      name: 'Blogy',
-      category: 'Frontend & Backend',
-      tags: ['Vue.js', 'Laravel'],
-      videoSrc: work4,
-      imageBg: workBg4,
-      url: 'https://github.com/Hetari/blog',
-      year: '2023',
     },
   ];
 
