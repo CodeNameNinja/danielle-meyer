@@ -113,11 +113,11 @@
 
 <script setup lang="ts">
   import { animateSplitText } from '@/animations';
-  import { work1, work2, work3, work4 } from '@/assets/videos';
+  import { work1, work2 } from '@/assets/videos';
   import { textSplitterIntoChar } from '@/functions';
   import { computed, onBeforeMount, onMounted, ref } from 'vue';
   import gsap from 'gsap';
-  import { workBg1, workBg2, workBg3, workBg4 } from '@/assets/images';
+  import { workBg1, workBg2 } from '@/assets/images';
   import { useWindowSize } from '@vueuse/core';
 
   const isSmallScreen = computed(() => {
