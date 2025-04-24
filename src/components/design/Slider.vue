@@ -261,7 +261,7 @@
   const people = [
     {
       quote:
-        'Collaborating with Hetari on multiple projects has been a true pleasure. His exceptional skills, attention to detail, and commitment to quality consistently made him an invaluable asset to the team.',
+        'At TopCo Models, I crafted visual narratives that captured the essence of beauty and confidence. From editorial layouts to model portfolios, each design told a story with intention and flair. I collaborated closely with photographers and stylists to ensure our visuals spoke the language of high-end fashion and elegance.',
       author: 'Topco Models',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Animation', 'Visual Storytelling'],
@@ -269,7 +269,7 @@
     },
     {
       quote:
-        'Working with Ebraheem on the Axon website has been an exceptional experience. His invaluable support and dedication were crucial in bringing this project to life. Thank you, Ebraheem!',
+        'As the brand identity lead at Charlotte Rhys, I shaped a timeless visual language that echoed the brand’s luxurious fragrance and lifestyle ethos. From packaging design to digital campaigns, every creative element aligned with our sophisticated aesthetic, helping elevate customer perception and strengthen our presence in the premium personal care market.',
       author: 'Charlotte Rhys',
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Brand Identity', 'Packaging'],
