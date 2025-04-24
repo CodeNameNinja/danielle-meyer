@@ -101,7 +101,7 @@
 
 <script setup lang="ts">
   import { onBeforeMount, ref } from 'vue';
-  import { MyName, Star } from '../design';
+  import { MyName } from '../design';
   import { Button } from '@/components/common';
   import { profile } from '@/assets/images';
   import { getAvailableForWorkDate, textSplitterIntoChar } from '@/functions';
