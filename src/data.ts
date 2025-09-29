@@ -54,7 +54,7 @@ const resourceLinks = [
 ];
 
 const heroText =
-  'A freelance graphic and visual artist, blending creativity and storytelling to craft bold, expressive designs across digital and print media.';
+  'A graphic designer and visual artist, blending experimentation and storytelling to craft intentional and expressive designs across digital and print media.';
 
 const locationPlace = `15°22'22.0"N 44°10'39.5"E`;
 const locationCountry = 'Yemen, Sanaa';

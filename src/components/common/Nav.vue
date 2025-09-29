@@ -54,8 +54,8 @@
           <Link
             class="h-6! font-medium tracking-wider"
             tag="p"
-            label="hetari4all@gmail.com"
-            url="mailto:hetari4all@gmail.com"
+            label="sicklywhale@gmail.com"
+            url="mailto:sicklywhale@gmail.com"
           />
           <div class="mt-6 flex flex-wrap justify-start gap-1">
             <Button
@@ -100,7 +100,7 @@
         <p
           class="heading-6 font-fancy text-flax-smoke-400 hidden font-bold uppercase select-none md:block"
         >
-          available for freelancers <br />
+          available for freelance <br />
           work and collaboration
         </p>
       </div>

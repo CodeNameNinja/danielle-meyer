@@ -44,7 +44,7 @@
         <p
           class="heading-4 relative w-full max-w-[40ch] leading-snug font-medium text-balance"
         >
-          With a passion for visual storytelling, I bring ideas to life—from concept to creation—crafting compelling designs that leave a lasting impact across both digital and print landscapes.
+          With a passion for visual storytelling, I bring ideas to life, from concept to creation, crafting compelling designs that leave a lasting impact across both digital and print media.
         </p>
 
         <div
@@ -54,11 +54,9 @@
             ( ABOUT ME )
           </p>
           <p class="heading-6 font-fancy w-full text-balance sm:max-w-[40ch]">
-            Crafting captivating visual experiences is at the heart of my work.
-            I pour intention into every detail—balancing form and function to create designs that resonate and inspire.
+            I’m a curious, playful creative who loves to explore ideas through both digital and traditional mediums. Whether I’m building brands, designing layouts, or experimenting with new techniques, I approach each project as a chance to problem-solve and tell meaningful visual stories.
             <br /><br />
-            When I’m not immersed in creative projects, I’m learning motion animation, listening to music,
-            and dreaming up fresh ideas.
+            Outside the studio, you’ll find me soaking in the sun, hiking up a mountain, cooking something (probably potatoes), listening to a great playlist, or at home hanging out with my cat.
           </p>
         </div>
       </div>

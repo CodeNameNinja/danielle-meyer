@@ -67,6 +67,12 @@
           :src="people[1].profile"
           alt=""
         />
+        <img
+          :class="{ hidden: index !== 2 }"
+          class="relative z-10 size-full rounded-lg object-cover object-center mix-blend-screen brightness-90 grayscale lg:h-[85svh]"
+          :src="people[2].profile"
+          alt=""
+        />
         <div
           id="quote-overlay"
           class="bg-flax-smoke-500 absolute inset-0 z-50 rounded-lg"
@@ -126,7 +132,7 @@
 </template>
 
 <script setup lang="ts">
-  import { Topco, Charlotte  } from '@/assets/images';
+  import { Topco, Charlotte, Nifty  } from '@/assets/images';
   import { Button } from '../common';
   import { computed, onMounted, ref } from 'vue';
   import { useWindowSize } from '@vueuse/core';
@@ -274,6 +280,14 @@
       position: 'Graphic Designer',
       tags: ['Graphic Design', 'Brand Identity', 'Packaging'],
       profile: Charlotte,
+    },
+    {
+      quote:
+        'I worked under the guidance of a senior graphic designer at a boutique digital marketing agency based in Paarl. My primary focus was on creating social media graphics and digital assets for approximately 11 clients. In addition, I occasionally contributed to print design projects.',
+      author: 'Nifty Studio',
+      position: 'Graphic Designer',
+      tags: ['Graphic Design', 'Digital Marketing', 'Social Media'],
+      profile: Nifty,
     },
   ];
 </script>

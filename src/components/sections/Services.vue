@@ -19,7 +19,8 @@
         <p
           class="heading-4 font-fancy col-span-8 w-full text-balance sm:font-semibold md:col-span-5"
         >
-          Striking visuals don’t happen by accident—they’re crafted with purpose. I design expressive, thoughtful compositions that connect, inspire, and leave a lasting impression.
+          I see design as translation—turning your ideas into visuals that speak
+          clearly, feel authentic, and leave a lasting impression.
         </p>
       </div>
     </div>
@@ -53,8 +54,8 @@
   const servicesCardProps = [
     {
       title: 'Brand Identity Design',
-      body: 'I create visual identities that reflect the essence of your brand—logos, color palettes, typography, and supporting elements that communicate your story with clarity and style.',
-      headings: ['Memorable', 'Professional', 'Distinctive'],
+      body: 'I design brand identities that feel as intentional as the people behind them. Every logo, palette, and type choice working together to tell a cohesive, compelling story.',
+      headings: ['Narrative', 'Cohesive', 'Distinctive'],
       shape: `<svg viewBox="0 0 200 200"  xmlns="http://www.w3.org/2000/svg">
   <path d="M100 0C103.395 53.7596 146.24 96.6052 200 100C146.24 103.395 103.395 146.24 100 200C96.6052 146.24 53.7596 103.395 0 100C53.7596 96.6052 96.6052 53.7596 100 0Z"/>
   </svg>
@@ -63,11 +64,7 @@
     {
       title: 'Editorial & Layout Design',
       body: 'From magazines to lookbooks and digital publications, I design visually engaging layouts that elevate content, balance readability with aesthetics, and guide the viewer’s eye effortlessly.',
-      headings: [
-        'Elegant',
-        'Cohesive',
-        'Refined',
-      ],
+      headings: ['Structure', 'Flow', 'Engagement'],
       shape: `<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <path d="M127.14 200C99.9942 200 99.9943 167.423 72.8487 167.423C41.6048 167.423 0 158.386 0 127.133C0 99.9885 32.5678 99.9885 32.5678 72.8445C32.5678 41.6139 41.6048 0 72.8602 0C100.006 0 100.006 32.5774 127.151 32.5774C158.384 32.5774 200 41.6139 200 72.8675C200 100.012 167.421 100.012 167.421 127.156C167.409 158.444 158.384 200 127.14 200Z" />
   </svg>
@@ -75,12 +72,8 @@
     },
     {
       title: 'Digital & Social Media Graphics',
-      body: 'I craft compelling visuals for digital platforms—social posts, banners, ads, and web visuals—designed to boost engagement and maintain a consistent visual presence across channels.',
-      headings: [
-        'Eye-catching',
-        'Scroll-stopping',
-        'On-brand',
-      ],
+      body: "Whether it's a social post, banner, or web visual, I design graphics that reflect your brand’s identity and tone—boosting engagement while keeping your visual presence cohesive and compelling.",
+      headings: ['Engaging', 'Adaptable', 'Scroll-stopping'],
       shape: `<svg  viewBox="0 0 200 200"  xmlns="http://www.w3.org/2000/svg">
   <path d="M100 0L170.711 29.2893L200 100L170.711 170.711L100 200L29.2893 170.711L0 100L29.2893 29.2893L100 0Z" />
   </svg>

@@ -1,14 +1,14 @@
 <template>
-  <component  :is="url ? 'a' : 'button'" 
-    @click="()=>{
+  <component  :is="url ? 'a' : 'button'"
+              @click="()=>{
       if (url) {
         gotoSection(url);
       }
     }"
-    id="button"
-    class="leading-base group pointer-events-auto relative h-full max-w-full transform-none overflow-clip rounded-full bg-flax-smoke-950 px-5 py-2 text-[1rem] font-semibold uppercase tracking-normal text-flax-smoke-100 sm:text-sm"
-    :class="$attrs.class"
-    :href="url"
+              id="button"
+              class="leading-base group pointer-events-auto relative h-full max-w-full transform-none overflow-clip rounded-full bg-flax-smoke-950 px-5 py-2 text-[1rem] font-semibold uppercase tracking-normal text-flax-smoke-100 sm:text-sm"
+              :class="$attrs.class"
+              :href="url"
   >
     <span
       class="ease-expo flex-center absolute bottom-0 left-0 z-10 my-auto size-full w-full will-change-auto translate-y-full text-nowrap rounded-t-[15rem] bg-flax-smoke-500 font-fancy transition-all duration-700 group-hover:translate-y-0 group-hover:rounded-none"
@@ -21,14 +21,14 @@
     >
       <span
         class="ease-expo text-nowrap font-fancy transition-all duration-700 group-hover:-translate-y-full"
-        >{{ label }}</span
+      >{{ label }}</span
       >
     </span>
   </component :is="url ? 'a' : 'button'"">
 </template>
 
 <script setup lang="ts">
-import { gotoSection } from '@/functions';
+  import { gotoSection } from '@/functions';
 
   defineProps({
     label: {

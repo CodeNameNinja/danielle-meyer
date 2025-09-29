@@ -26,8 +26,8 @@
         <p
           class="heading-4 font-fancy col-span-8 w-full text-balance sm:font-semibold lg:col-span-7"
         >
-          Featured client projects that have been meticulously crafted with
-          passion and purpose over the years.
+          Featured projects that highlight my range of design styles and skills.
+          Click to view each project and explore more on Behance.
         </p>
       </div>
     </div>
@@ -59,12 +59,12 @@
             <div
               class="flex-center relative aspect-square overflow-clip rounded-lg"
             >
-              <img
-                alt="work-background"
-                loading="lazy"
-                class="absolute size-full object-cover select-none"
-                :src="work.imageBg"
-              />
+              <!--              <img-->
+              <!--                alt="work-background"-->
+              <!--                loading="lazy"-->
+              <!--                class="absolute size-full object-cover select-none"-->
+              <!--                :src="work.imageBg"-->
+              <!--              />-->
               <div
                 class="flex-center z-10 aspect-4/3 size-full overflow-clip rounded-lg object-cover"
               >
@@ -150,7 +150,7 @@
       id: 0,
       name: 'DISPOSABLE CAMERA VIDEO',
       category: 'Visual Storytelling',
-      tags: ['storytelling', 'video', 'reel'],
+      tags: ['Storytelling', 'Video', 'Reel'],
       videoSrc: work1,
       videoSrcMp4: work2MP4,
       imageBg: workBg1,
@@ -161,7 +161,7 @@
       id: 1,
       name: 'SURGE (HONOURS PROJECT)',
       category: 'Visual Storytelling',
-      tags: ['storytelling', 'video', 'reel'],
+      tags: ['Anti-Branding', 'Experimental', 'Visual Identity'],
       videoSrc: work2,
       videoSrcMp4: work2MP4,
       imageBg: workBg2,

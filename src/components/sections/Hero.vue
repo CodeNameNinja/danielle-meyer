@@ -8,7 +8,7 @@
         <div class="w-full items-end overflow-clip">
           <div class="flex items-start gap-4">
             <MyName />
-<!--            <Star id="star" class="hide-on-mobile translate-x-full" />-->
+            <!--            <Star id="star" class="hide-on-mobile translate-x-full" />-->
           </div>
         </div>
 
@@ -38,7 +38,9 @@
             </div>
 
             <p class="sr-only">
-              A freelance graphic and visual artist, blending creativity and storytelling to craft bold, expressive designs across digital and print media.
+              A graphic designer and visual artist, blending experimentation and
+              storytelling to craft intentional and expressive designs across
+              digital and print media.
             </p>
             <p
               v-html="whoAmI"
@@ -108,7 +110,7 @@
   import { dataCalConfig, dataCalLink, dataCalNamespace } from '@/data';
 
   const whoAmI = ref(
-    'A freelance graphic and visual artist, blending creativity and storytelling to craft bold, expressive designs across digital and print media.',
+    'A graphic designer and visual artist, blending experimentation and storytelling to craft intentional and expressive designs across digital and print media.',
   );
   const AvailableForWorkDate = ref('');
 

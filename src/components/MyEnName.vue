@@ -1,14 +1,12 @@
 <template>
-  <svg
-    id="Layer_1"
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 2560 428.98"
-    preserveAspectRatio="xMidYMid meet"
-    style="width: 100%; height: auto; display: block;"
-  >
-    <text transform="translate(118.95 400)" style="fill: #f70399; font-family: BebasKai, 'Bebas Kai'; font-size: 429.69px;">
-      <tspan x="0" y="0" style="letter-spacing: 0em;">D</tspan>
-      <tspan x="260" y="0">ANIELLE</tspan>
-    </text>
+  <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1564.13 398.62">
+    <path d="M287.03,119.77v148.67c0,49.41-26.64,76.05-75.62,76.05h-65.31V43.72h65.31c48.98,0,75.62,26.64,75.62,76.05ZM191.64,85.83v216.56h18.05c21.91,0,31.8-11.6,31.8-36.95V122.78c0-25.35-9.88-36.95-31.8-36.95h-18.05Z" style="fill: #f70399;"/>
+    <path d="M474.81,344.5h-46.41l-9.88-68.32h-50.27l-9.88,68.32h-45.55l51.99-300.78h58.01l51.99,300.78ZM392.74,108.17l-18.48,126.76h38.24l-18.48-126.76h-1.29Z" style="fill: #f70399;"/>
+    <path d="M655.7,344.5h-44.69l-59.73-199.38h-.86v199.38h-42.97V43.72h50.7l53.71,179.18h.86V43.72h42.97v300.78Z" style="fill: #f70399;"/>
+    <path d="M750.23,344.5h-45.55V43.72h45.55v300.78Z" style="fill: #f70399;"/>
+    <path d="M927.26,85.83h-82.5v85.08h66.6v42.11h-66.6v89.38h82.5v42.11h-128.05V43.72h128.05v42.11Z" style="fill: #f70399;"/>
+    <path d="M1011.47,301.53h76.05v42.97h-121.6V43.72h45.55v257.81Z" style="fill: #f70399;"/>
+    <path d="M1162.29,301.53h76.05v42.97h-121.6V43.72h45.55v257.81Z" style="fill: #f70399;"/>
+    <path d="M1395.6,85.83h-82.5v85.08h66.6v42.11h-66.6v89.38h82.5v42.11h-128.05V43.72h128.05v42.11Z" style="fill: #f70399;"/>
   </svg>
 </template>
